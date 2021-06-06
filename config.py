@@ -47,7 +47,11 @@ RESERVATION_PARTY_SIZE = 2
 
 # REFRESH INTERVAL (default: 60)
 # Amount of time (in seconds) the bot should wait before checking resy again
+REFRESH_INTERVAL = 60
 
+# RANDOMIZE REFRESH INTERVAL (default: True)
+# Whether or not to randomize the amount of time between resy website checks
+RANDOMIZE_REFRESH_INTERVAL = True
 
 
 
